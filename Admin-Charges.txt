@@ -1,0 +1,5 @@
+NAC 15 5 12
+AC 20 6 15
+Sharing 20 6 15
+Rickshaw 12 4 8
+Bike 10 0.4 8
